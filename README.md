@@ -12,3 +12,4 @@ Netbeans can be downloaded from  https://netbeans.org/downloads/
 To  install mysql and create database using mysql refer https://www.linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04
 
 Jdbc connectivity is needed for connecting the database with netbeans . The required jar files are provided in the zip folder alongside this document .
+# 2d-password
